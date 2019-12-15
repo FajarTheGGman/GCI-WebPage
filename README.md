@@ -6,4 +6,4 @@
 ![alt-text](https://github.com/FajarTheGGman/GCI-WebPage/blob/master/.img/page.PNG)
 
 Link Website
-![](https://fajartheggman.github.io/GCI-WebPage/)
+<a href="https://fajartheggman.github.io/GCI-WebPage/">Web</a>
